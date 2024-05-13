@@ -16,4 +16,5 @@ You can find me here:
 <code>TailwinCSS</code>
 <code>JavaScript</code>
 <code>VueJS</code>
+<code>Pinia</code>
 
