@@ -1,12 +1,12 @@
 ### Hi, I am James Byron 👋
 
-I'm a frontend developer.<br>
+I'm 17 y.o. frontend developer.<br>
 I mostly work remotely.
 
 You can find me here:
-  &nbsp;&nbsp;&nbsp;<a href="https://instagram.com/iamjamesfd">Instagram</a>
-  &nbsp;&nbsp;&nbsp;<a href="https://t.me/iamjamesfd">Upwork</a>
-  &nbsp;&nbsp;&nbsp;<a href="https://t.me/iamjamesfd">Telegram</a>
+  <a href="https://instagram.com/iamjamesfd">Instagram</a>
+  <a href="https://t.me/iamjamesfd">Upwork</a>
+  <a href="https://t.me/iamjamesfd">Telegram</a>
 
 ### Languages and tools I work with:
 <code>HTML</code>
