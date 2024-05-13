@@ -3,10 +3,10 @@
 I'm a frontend developer.<br>
 I mostly work remotely.
 
-You can find me here: <br>
-  &nbsp;&nbsp;&nbsp;<a href="https://instagram.com/iamjamesfd">Instagram</a> <br>
-  &nbsp;&nbsp;&nbsp;<a href="https://t.me/iamjamesfd">Upwork</a> <br>
-  &nbsp;&nbsp;&nbsp;<a href="https://t.me/iamjamesfd">Telegram</a> <br>
+You can find me here:
+  &nbsp;&nbsp;&nbsp;<a href="https://instagram.com/iamjamesfd">Instagram</a>
+  &nbsp;&nbsp;&nbsp;<a href="https://t.me/iamjamesfd">Upwork</a>
+  &nbsp;&nbsp;&nbsp;<a href="https://t.me/iamjamesfd">Telegram</a>
 
 ### Languages and tools I work with:
 <code>HTML</code>
