@@ -5,12 +5,17 @@ I mostly work remotely.
 
 You can find me here:
 <ul>
-  <li><a href="https://t.me/iamjamesfd">Telegram <img src="https://image.similarpng.com/very-thumbnail/2021/01/Telegram-icon-on-transparent-background-PNG.png"></a></li>
   <li><a href="https://instagram.com/iamjamesfd">Instagram</a></li>
   <li><a href="https://t.me/iamjamesfd">Upwork</a></li>
+  <li><a href="https://t.me/iamjamesfd">Telegram></a></li>
 </ul>
 
 ### Languages and tools I work with:
-<code>
-  html
-</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>SASS</code>
+<code>Bootstrap</code>
+<code>TailwinCSS</code>
+<code>JavaScript</code>
+<code>VueJS</code>
+
