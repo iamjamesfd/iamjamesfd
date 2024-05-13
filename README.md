@@ -4,9 +4,9 @@ I'm a frontend developer.<br>
 I mostly work remotely.
 
 You can find me here: <br>
-  <a href="https://instagram.com/iamjamesfd">Instagram</a> <br>
-  <a href="https://t.me/iamjamesfd">Upwork</a> <br>
-  <a href="https://t.me/iamjamesfd">Telegram></a> <br>
+  &nbsp;&nbsp;&nbsp;<a href="https://instagram.com/iamjamesfd">Instagram</a> <br>
+  &nbsp;&nbsp;&nbsp;<a href="https://t.me/iamjamesfd">Upwork</a> <br>
+  &nbsp;&nbsp;&nbsp;<a href="https://t.me/iamjamesfd">Telegram</a> <br>
 
 ### Languages and tools I work with:
 <code>HTML</code>
